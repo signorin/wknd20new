@@ -13,8 +13,8 @@
     "/content/wknd20new.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/wknd20new/",
+    "/content/dam/wknd20new/"
   ]
 }
  
